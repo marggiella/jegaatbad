@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LlamaCoin – The Chill Crypto</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f9f9f9; text-align: center; color: #333; }
+        header { background-color: #ffbc00; padding: 20px; }
+        header h1 { font-size: 40px; }
+        .cta-button { background-color: #ff4d00; padding: 15px 30px; color: white; font-size: 18px; border: none; cursor: pointer; }
+        .cta-button:hover { background-color: #ff6a1d; }
+        section { padding: 20px; margin-top: 30px; }
+        footer { background-color: #333; color: white; padding: 10px; position: fixed; bottom: 0; width: 100%; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>LlamaCoin</h1>
+        <p>The Chill Crypto</p>
+    </header>
+
+    <section>
+        <h2>Don't Rush, Just Llama</h2>
+        <p>The coin that’s all about taking it easy. Relaxed, fun, and stress-free investing.</p>
+        <img src="llama_image.png" alt="Relaxed Llama" width="400">
+        <br><br>
+        <button class="cta-button" onclick="window.location.href='#'">Join the Chill Movement</button>
+    </section>
+
+    <section>
+        <h3>Why LlamaCoin?</h3>
+        <ul>
+            <li>Relaxed Community</li>
+            <li>No Stress, No Drama</li>
+            <li>Fun, Lighthearted Investing</li>
+            <li>Join the Llama Lifestyle</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Contact us | Join our community on social media</p>
+    </footer>
+</body>
+</html>
